@@ -7,6 +7,9 @@ To build twitter bot you need Api and Secret keys and Access and  Secret Token's
 if you don't know how to get keys and token just search on youtube you will get lot's of videos.
 
 
+After Then just follow code above in autotweet.py.
+
+
 checout my Twitter Bot(@DeepMindQuotes): https://twitter.com/DeepMindQuotes
 
 
